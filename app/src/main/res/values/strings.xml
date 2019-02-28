@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogForAlert</string>
+    <string name="ok_button">OKE</string>
+    <string name="cancel_button">KENSEL</string>
+</resources>
